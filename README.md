@@ -2,11 +2,11 @@
 
 Hi, I'm **Lorenzo Pegorari**!
 
-If you are interested my Curriculum Vitae can be found [here](https://lorenzopegorari.github.io/cv-resume/).
+If you are interested, my *Curriculum Vitae* can be found [here](https://lorenzopegorari.github.io/cv-resume/).
 
 ## Projects
 
-- [Google Summer of Code 2025 Contributor](https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM) for [BRL-CAD](https://github.com/BRL-CAD/brlcad). My project report & daily logs can be found [here](https://github.com/LorenzoPegorari/GSoC25-report).
+- [Google Summer of Code 2025 Contributor](https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM) for [BRL-CAD](https://github.com/BRL-CAD/brlcad). My *project report & daily logs* can be found [here](https://lorenzopegorari.github.io/GSoC25-report/).
 - [SimplyColorful](https://github.com/LorenzoPegorari/SimplyColorful), a theme for the note-taking application [Obsidian](https://obsidian.md/).
 
 ## Contact me
