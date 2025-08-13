@@ -1,13 +1,15 @@
-# lorenzopegorari.github.io
+<h1 align="center">lorenzopegorari.github.io</h1>
 
-Hi, I'm **Lorenzo Pegorari**!
-
-If you are interested, my *Curriculum Vitae* can be found [here](https://lorenzopegorari.github.io/cv-resume/).
+Hi, I'm **Lorenzo Pegorari**, and this is my GitHub portfolio!
 
 ## Projects
 
-- [Google Summer of Code 2025 Contributor](https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM) for [BRL-CAD](https://github.com/BRL-CAD/brlcad). My *project report & daily logs* can be found [here](https://lorenzopegorari.github.io/GSoC25-report/).
+- [Google Summer of Code 2025 Contributor](https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM) for [BRL-CAD](https://github.com/BRL-CAD/brlcad). My *final project report & daily logs* can be found [here](https://lorenzopegorari.github.io/GSoC25-report/).
 - [SimplyColorful](https://github.com/LorenzoPegorari/SimplyColorful), a theme for the note-taking application [Obsidian](https://obsidian.md/).
+
+## Curriculum Vitae
+
+If you are interested, I have a dedicated page for my *Curriculum Vitae*. It can be found [here](https://lorenzopegorari.github.io/cv-resume/).
 
 ## Contact me
 
